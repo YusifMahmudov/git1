@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    text-align: center;
+}
+.glava{
+    border:solid  black;
+    border-radius: 60px;
+   border-color: aqua;
+  color: orange; 
+
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    color: blue;
+}
